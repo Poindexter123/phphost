@@ -1,3 +1,5 @@
+<html>
+    <body>
 <?php
     $name="John Smith";
     $age=56;
@@ -15,3 +17,5 @@
     display();
     
     ?>
+    </body>
+</html>
